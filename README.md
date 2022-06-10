@@ -1,2 +1,2 @@
 # patika
-Java mvc application, screenbuilder and JDBC Derby database
+Java mvc application, screenbuilder(FXML) and JDBC Derby database
